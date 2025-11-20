@@ -4,6 +4,13 @@ This project is a fully designed SQL-based Grocery Store Management System that 
 
 The project includes a complete database schema along with a wide variety of SQL queries used for business insights, operational monitoring, and performance reporting.
 
+### 🎯 Objectives
+- To create a structured database for grocery store operations.
+- To analyze sales, customers, products, suppliers, and employees using SQL.
+- To generate meaningful business insights from store data.
+- To understand customer and product performance trends.
+- To enhance SQL skills through real-world retail data analysis.
+
 ## 📂 Project Features
 ### 🛒 1. Customer & Order Analytics
 Includes SQL queries to analyze:
@@ -71,5 +78,15 @@ These tables are designed with proper relationships to represent a real grocery 
 -------------
 ### 📚 Conclusion
 This Grocery Store Management System SQL project demonstrates how structured data and well-written SQL queries can transform raw store data into meaningful insights. By analyzing customers, products, suppliers, and employees, the project provides a comprehensive understanding of grocery store operations. It serves as a strong foundation for learning SQL, data analysis, business intelligence, and retail management analytics, making it valuable for students, data enthusiasts, and beginners in database management.
+
+---------------
+
+🔗 Live Dashboard
+you can download the .pbix file from this repository and view it in Power BI Desktop.
+👩‍💻 About Me
+JIDNYASA THAKRE
+Aspiring Data Analyst
+Skilled in Power BI, Python, SQL, EDA, and Statistics
+Linkdin :https://www.linkedin.com/in/jidnyasathakre/
 
 ---------------
