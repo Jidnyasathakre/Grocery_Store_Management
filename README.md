@@ -70,6 +70,6 @@ These tables are designed with proper relationships to represent a real grocery 
 - Data analysis using relational queries
 -------------
 ### 📚 Conclusion
-This Grocery Store Management System SQL project demonstrates how structured data and well-written SQL queries can transform raw store data into meaningful insights. By analyzing customers, products, suppliers, and employees, the project provides a comprehensive understanding of grocery store operations.
-It serves as a strong foundation for learning SQL, data analysis, business intelligence, and retail management analytics—making it valuable for students, data enthusiasts, and beginners in database management.
+This Grocery Store Management System SQL project demonstrates how structured data and well-written SQL queries can transform raw store data into meaningful insights. By analyzing customers, products, suppliers, and employees, the project provides a comprehensive understanding of grocery store operations. It serves as a strong foundation for learning SQL, data analysis, business intelligence, and retail management analytics, making it valuable for students, data enthusiasts, and beginners in database management.
+
 ---------------
