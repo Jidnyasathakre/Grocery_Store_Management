@@ -81,12 +81,13 @@ This Grocery Store Management System SQL project demonstrates how structured dat
 
 ---------------
 
-🔗 Live Dashboard
-you can download the .pbix file from this repository and view it in Power BI Desktop.
-👩‍💻 About Me
-JIDNYASA THAKRE
-Aspiring Data Analyst
-Skilled in Power BI, Python, SQL, EDA, and Statistics
-Linkdin :https://www.linkedin.com/in/jidnyasathakre/
+### 🔗 Live Dashboard
+
+- you can download the .pbix file from this repository and view it in Power BI Desktop.
+- 👩‍💻 About Me
+  -  JIDNYASA THAKRE
+  - Aspiring Data Analyst
+  - Skilled in Power BI, Python, SQL, EDA, and Statistics
+  - Linkdin :https://www.linkedin.com/in/jidnyasathakre/
 
 ---------------
